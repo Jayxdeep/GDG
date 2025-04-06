@@ -9,7 +9,8 @@ form.addEventListener("submit", async (e) => {
   const submittedFile = document.getElementById("submittedFile").value;
 
   try {
-    const res = await fetch("http://localhost:3000/api/assignments/grade", {
+    const res = await fetch("https://gdg-production.up.railway.app/api/assignments/grade", {
+
       method: "POST",
       headers: {
         "Content-Type": "application/json",
