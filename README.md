@@ -82,7 +82,7 @@ Ensure you have the following installed:
 
  - [Sankalpa](https://github.com/sam-kash)
 
- - Shatakshi
+ - [Shatakshi](https://github.com/Shatakshi2004)
 
 ##  Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.

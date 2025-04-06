@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Teacher Assistant – Submit Assignment</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>📚 Submit Assignment</h1>
+    
+    <form id="assignmentForm">
+      <input type="text" id="studentId" placeholder="Student ID" required />
+      <input type="text" id="subject" placeholder="Subject" required />
+      <textarea id="submittedFile" placeholder="Paste your assignment text here..." required></textarea>
+      <button type="submit">Submit</button>
+    </form>
+
+    <div id="result" class="result-box"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
