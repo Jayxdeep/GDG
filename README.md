@@ -25,7 +25,7 @@ Lays the foundation for smart dashboards, lesson planning, and performance track
 - **Express.js** 
 
 ### **Frontend**
-- Not yet but planned with React+vite
+- HTML,CSS,JS
 
 ### **Database** 
 - MongoDB
