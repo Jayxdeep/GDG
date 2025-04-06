@@ -80,7 +80,9 @@ Ensure you have the following installed:
  
 -  [Together.ai](https://www.together.ai/)
 
- - [Sankalp](https://github.com/sam-kash)
+ - [Sankalpa](https://github.com/sam-kash)
+
+ - Shatakshi
 
 ##  Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
